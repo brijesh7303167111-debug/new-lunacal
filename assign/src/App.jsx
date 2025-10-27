@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Sec1 from "./components/Sec1";
-import Sec2 from "./components/sec2";
+import Sec2 from "./components/Sec2";
 
 
 function App() {
